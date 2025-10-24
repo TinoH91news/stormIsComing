@@ -1,3 +1,8 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
-economictimes.indiatimes.com,0.0,1.0,0.0,1.0,1.0
+economictimes.indiatimes.com,0.018750000000000003,0.026516504294495535,0.0,0.0,2.0
+journals.plos.org,0.0,1.0,0.0,1.0,1.0
+ktla.com,0.0,1.0,0.0,1.0,1.0
+truthout.org,0.0,1.0,0.0,1.0,1.0
+twistedsifter.com,0.0,1.0,0.0,1.0,1.0
 www.nzherald.co.nz,0.0,1.0,0.0,1.0,1.0
+www.yahoo.com,0.0,1.0,0.0,1.0,1.0
