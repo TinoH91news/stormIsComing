@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'hail nets',en,Mitigation,#2ecc71,#0b3d91,3,0.2165029341287743
 'Hail vehicle shelters',en,Mitigation,#2ecc71,#0b3d91,3,0.2165029341287743
 'Storm early warning',en,Mitigation,#33cc33,#022f78,3,0.2142645274873459
 'Storm flood barriers',en,Mitigation,#33cc33,#022f78,3,0.2142645274873459
@@ -10,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Storm wind shear',en,Causes,#9e3215,#022f78,3,0.2108840556610564
 'Storm low pressure',en,Causes,#9e3215,#022f78,3,0.2108840556610564
 'Storm convection',en,Causes,#9e3215,#022f78,3,0.2108840556610564
-'Storm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Storm power outages',en,Impact,#4287f5,#022f78,3,0.2089751189887505
+'Storm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Storm flooding',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Hail dented vehicles',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
 'Hail crop damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
@@ -19,7 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail swath',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
+'Storm severe thunderstorm',en,Hazard,#a89216,#022f78,3,0.1894772761601365
 'Storm tornado',en,Hazard,#a89216,#022f78,3,0.1894772761601365
 'Storm hurricane',en,Hazard,#a89216,#022f78,3,0.1894772761601365
-'Storm severe thunderstorm',en,Hazard,#a89216,#022f78,3,0.1894772761601365
-'Hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,1,0.18402752400945815
+'hail nets',en,Mitigation,#2ecc71,#0b3d91,2,0.18402756900945813
+'Hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,1,0.1840275240094581
