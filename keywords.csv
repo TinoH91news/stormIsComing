@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,3,0.2165029341287743
 'Hail nets',en,Mitigation,#2ecc71,#0b3d91,3,0.2165029341287743
-'Thunderstorm building codes',en,Mitigation,#33cc33,#022f78,3,0.2142645274873459
 'Thunderstorm flood barriers',en,Mitigation,#33cc33,#022f78,3,0.2142645274873459
 'Hail freezing level',en,Causes,#8e44ad,#0b3d91,3,0.2123815570043396
 'Hail supercells',en,Causes,#8e44ad,#0b3d91,3,0.2123815570043396
@@ -9,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thunderstorm wind shear',en,Causes,#9e3215,#022f78,3,0.2108840556610564
 'Thunderstorm low pressure',en,Causes,#9e3215,#022f78,3,0.2108840556610564
 'Thunderstorm convection',en,Causes,#9e3215,#022f78,3,0.2108840556610564
+'Thunderstorm flooding',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Thunderstorm power outages',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
-'Thunderstorm flooding',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Hail crop damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
 'Hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
 'Hail dented vehicles',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
-'Thunderstorm early warning',en,Mitigation,#33cc33,#022f78,3,0.20327508836424402
+'Thunderstorm early warning',en,Mitigation,#33cc33,#022f78,3,0.203275088364244
 'Hail large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail hail swath',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
@@ -23,3 +22,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.1894772761601365
 'Thunderstorm squall line',en,Hazard,#a89216,#022f78,3,0.1894772761601365
 'Hail vehicle shelters',en,Mitigation,#2ecc71,#0b3d91,1,0.1840275390094581
+'Thunderstorm building codes',en,Mitigation,#33cc33,#022f78,2,0.182124848364244
