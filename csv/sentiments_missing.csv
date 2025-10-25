@@ -1,5 +1,23 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Southern California forecast,,,,,,
-New Jersey Lawmakers Condemn,,,,,,
-(2025) A lightning cluster identification method considering multi-scale spatiotemporal,,,,,,
-North Bengal caused severe landslides,,,,,,
+Nine,Nine,CARDINAL,,,en,2
+overnight,overnight,TIME,,,en,2
+"September 26, 2025","September 26, 2025",DATE,,,en,2
+this weekend,this weekend,DATE,,,en,2
+Nearly 20 Years,Nearly 20 Years,DATE,,,en,1
+millions of dollars,millions of dollars,MONEY,,,en,1
+Deepavali,Deepavali,EVENT,,,en,1
+over 100mm,over 100mm,QUANTITY,,,en,1
+October 21,October 21,DATE,,,en,1
+Deepavali day,Deepavali day,DATE,,,en,1
+100mm,100mm,QUANTITY,,,en,1
+Saturday,Saturday,DATE,,,en,1
+Heavy Rainfall,Heavy Rainfall,WORK_OF_ART,,,en,1
+Tuesday afternoon,Tuesday afternoon,TIME,,,en,1
+2025,2025,DATE,,,en,1
+September,September,DATE,,,en,1
+Tuesday,Tuesday,DATE,,,en,1
+late this evening,late this evening,TIME,,,en,1
+this morning,this morning,TIME,,,en,1
+the week,the week,DATE,,,en,1
+yesterday,yesterday,DATE,,,en,1
+each year,each year,DATE,,,en,1

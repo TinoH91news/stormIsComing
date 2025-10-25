@@ -1,21 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
-bringing heavy rain,bringing heavy rain,ORG,0.07500000000000001,0.0,en,2
-lightning,lightning,ORG,0.07500000000000001,0.0,en,2
-Lightning,Lightning,ORG,0.0,0.0,en,1
-gusty winds,gusty winds,ORG,0.0,0.0,en,1
-but it is,but it is,ORG,0.7,0.0,en,1
-Lightning can be terrifying,Lightning can be terrifying,ORG,0.7,0.0,en,1
-Outdoor events,Outdoor events,ORG,0.0,0.0,en,1
-were impacted by heavy rainfall,were impacted by heavy rainfall,ORG,0.0,0.0,en,1
-Jammu and Kashmir,Jammu and Kashmir,ORG,0.0,0.0,en,1
-waterlogging,waterlogging,ORG,0.0,0.0,en,1
-while earlier rains damaged Rajouri,while earlier rains damaged Rajouri,ORG,0.0,0.0,en,1
-IMD predicts thunderstorm,IMD predicts thunderstorm,ORG,0.0,0.0,en,1
-heavy rain hit coast,heavy rain hit coast,ORG,0.0,0.0,en,1
-et al.,et al.,ORG,0.0,0.0,en,1
-A group of New Jersey Democratic congress membe…,A group of New Jersey Democratic congress membe…,ORG,0.0,0.0,en,1
-that included torrential rain and lightning,that included torrential rain and lightning,ORG,0.0,0.0,en,1
-Heavy rain and thunderstorm risk for New Zealand,Heavy rain and thunderstorm risk for New Zealand,ORG,0.0,0.0,en,1
-and a significant cool-down,and a significant cool-down,ORG,0.0,0.0,en,1
-more T-storms,more T-storms,ORG,0.0,0.0,en,1
-pretty cool,pretty cool,ORG,0.7,0.0,en,1
+IMD,IMD,ORG,-0.02500000000000001,0.25,en,2
+KTLA,KTLA,ORG,-0.1875,0.0,en,1
+MetService,MetService,ORG,0.06666666666666665,0.0,en,1
+Truthout,Truthout,ORG,0.05,0.0,en,1
+New Jersey Democratic congress,New Jersey Democratic congress,ORG,0.13636363636363635,0.0,en,1
+Rapid,Rapid,ORG,0.13333333333333336,0.0,en,1
+J&K,J&K,ORG,-0.2,0.0,en,1
+the India Meteorological Department,the India Meteorological Department,ORG,-0.2,0.0,en,1
+Pacific Palisades,Pacific Palisades,ORG,0.0,0.0,en,1

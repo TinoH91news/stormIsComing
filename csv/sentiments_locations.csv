@@ -1,5 +1,31 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Southern California forecast,Southern California forecast,LOC,0.0,0.0,en,1
-New Jersey Lawmakers Condemn,New Jersey Lawmakers Condemn,LOC,0.0,0.0,en,1
-(2025) A lightning cluster identification method considering multi-scale spatiotemporal,(2025) A lightning cluster identification method considering multi-scale spatiotemporal,LOC,0.0,0.0,en,1
-North Bengal caused severe landslides,North Bengal caused severe landslides,LOC,0.0,0.0,en,1
+Tamil Nadu,Tamil Nadu,GPE,-0.027777777777777787,0.5666666666666665,en,3
+Southern California,Southern California,LOC,-0.04305555555555557,0.3055555555555555,en,3
+Plains,Plains,LOC,0.04166666666666667,0.20833333333333334,en,2
+Arkansas,Arkansas,GPE,0.04166666666666667,0.20833333333333334,en,2
+Los Angeles,Los Angeles,GPE,-0.0625,0.3875,en,2
+Jammu,Jammu,GPE,-0.07083333333333333,0.3013888888888889,en,2
+the Mississippi Valley,the Mississippi Valley,LOC,0.1393939393939394,0.2674242424242424,en,2
+Oklahoma,Oklahoma,GPE,0.04166666666666667,0.20833333333333334,en,2
+Srinagar,Srinagar,GPE,-0.02500000000000001,0.5,en,2
+the Great Lakes region,the Great Lakes region,LOC,0.2787878787878788,0.5348484848484848,en,1
+Puducherry,Puducherry,GPE,-0.15000000000000002,0.45,en,1
+California,California,GPE,-0.0625,0.3875,en,1
+the Southeast Bay,the Southeast Bay,LOC,-4.625929269271485e-18,0.6166666666666666,en,1
+Kashmir,Kashmir,LOC,-0.06666666666666667,0.27777777777777773,en,1
+Srinagar city,Srinagar city,GPE,-0.06666666666666667,0.27777777777777773,en,1
+North Bengal,North Bengal,LOC,-0.06666666666666667,0.27777777777777773,en,1
+Rajouri,Rajouri,GPE,-0.075,0.325,en,1
+New Jersey,New Jersey,GPE,-0.2878787878787879,0.4515151515151515,en,1
+Southland,Southland,GPE,0.06666666666666665,0.6666666666666666,en,1
+Fiordland,Fiordland,GPE,0.06666666666666665,0.6666666666666666,en,1
+Otago,Otago,GPE,0.06666666666666665,0.6666666666666666,en,1
+the Tasman Sea,the Tasman Sea,LOC,0.21428571428571427,0.42857142857142855,en,1
+New Zealand,New Zealand,GPE,-0.03181818181818183,0.4772727272727273,en,1
+the Arizona Valley,the Arizona Valley,LOC,0.05949074074074073,0.48981481481481476,en,1
+Peoria,Peoria,GPE,0.05949074074074073,0.48981481481481476,en,1
+Glendale,Glendale,GPE,0.05949074074074073,0.48981481481481476,en,1
+Valley,Valley,LOC,0.15833333333333333,0.7916666666666666,en,1
+Arizona,Arizona,GPE,0.15833333333333333,0.7916666666666666,en,1
+Arizona Valley,Arizona Valley,LOC,-0.2,0.5,en,1
+Bengal,Bengal,GPE,-4.625929269271485e-18,0.6166666666666666,en,1
