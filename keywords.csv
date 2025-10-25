@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hail supercells',en,Causes,#8e44ad,#0b3d91,3,0.2558243534536886
+'Hail supercells',en,Causes,#8e44ad,#0b3d91,1,0.21745073043563531
 'Thunderstorm flood barriers',en,Mitigation,#33cc33,#022f78,3,0.2142645274873459
 'Thunderstorm convection',en,Causes,#9e3215,#022f78,3,0.2108840556610564
 'Thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thunderstorm early warning',en,Mitigation,#33cc33,#022f78,3,0.203275088364244
 'Thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.193981719736116
 'Thunderstorm low pressure',en,Causes,#9e3215,#022f78,3,0.1939467248981048
-'Hail hail swath',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
+'Hail hail swath',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Thunderstorm tornado',en,Hazard,#a89216,#022f78,3,0.1894772761601365
 'Thunderstorm squall line',en,Hazard,#a89216,#022f78,3,0.1894772761601365
 'Hail nets',en,Mitigation,#2ecc71,#0b3d91,3,0.1847775690094581
