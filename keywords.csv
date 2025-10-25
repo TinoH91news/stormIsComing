@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Thunderstorm flooding',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Hail dented vehicles',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
-'Hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
 'Hail crop damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
 'Thunderstorm early warning',en,Mitigation,#33cc33,#022f78,3,0.203275088364244
 'Thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.193981719736116
 'Thunderstorm low pressure',en,Causes,#9e3215,#022f78,3,0.1939467248981048
+'Hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.19290820782810808
 'Hail hail swath',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
