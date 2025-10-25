@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hail supercells',en,Causes,#8e44ad,#0b3d91,1,0.2174507304356353
 'Thunderstorm convection',en,Causes,#9e3215,#022f78,3,0.2108840556610564
 'Thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Thunderstorm flooding',en,Impact,#4287f5,#022f78,3,0.2089751189887505
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hail hail swath',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'Hail hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
+'Hail supercells',en,Causes,#8e44ad,#0b3d91,1,0.18498313587029
 'Hail nets',en,Mitigation,#2ecc71,#0b3d91,3,0.1847775690094581
 'Hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,3,0.1843275240094581
 'Hail vehicle shelters',en,Mitigation,#2ecc71,#0b3d91,1,0.1840275390094581
