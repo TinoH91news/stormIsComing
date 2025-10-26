@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail ensurance',en,Mitigation,#22cc44,#022f78,3,0.592908207828108
-'thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.21533549677569858
 'thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'hail crop damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
+'thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.20189870725934372
 'hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.192908207828108
 'hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
 'large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
