@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#022f78,2,0.1792514773118979
 'thunderstorm tornado',en,Hazard,#a89216,#022f78,3,0.1784917590218303
 'thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.1776294961404379
-'thunderstorm power outages',en,Impact,#4287f5,#022f78,2,0.1776290911404379
-'hail crop damage',en,Impact,#2980b9,#0b3d91,2,0.17490801282810808
+'hail crop damage',en,Impact,#2980b9,#0b3d91,2,0.174908012828108
 'hail dented vehicles',en,Impact,#2980b9,#0b3d91,2,0.1749078928281081
+'thunderstorm power outages',en,Impact,#4287f5,#022f78,2,0.17323496746937223
 'thunderstorm early warning',en,Mitigation,#33cc33,#022f78,2,0.1727840951096073
 'thunderstorm low pressure',en,Causes,#9e3215,#022f78,1,0.164855181163389
 'hail swath',en,Hazard,#e67e22,#0b3d91,2,0.1630576793801385
