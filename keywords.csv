@@ -1,25 +1,26 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
-'Hail crop damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
-'Hail dented vehicles',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
-'Thunderstorm early warning',en,Mitigation,#33cc33,#022f78,3,0.203275088364244
-'Thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.193981719736116
-'Hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.192908207828108
-'Hail hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
-'Hail large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
-'Hail supercells',en,Causes,#8e44ad,#0b3d91,1,0.18498313587029
-'Hail nets',en,Mitigation,#2ecc71,#0b3d91,3,0.1847775690094581
-'Hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,3,0.1843275240094581
-'Hail vehicle shelters',en,Mitigation,#2ecc71,#0b3d91,1,0.1840275390094581
-'Hail strong updrafts',en,Causes,#8e44ad,#0b3d91,2,0.1805243384536886
-'Thunderstorm wind shear',en,Causes,#9e3215,#022f78,2,0.1792515973118979
-'Thunderstorm convection',en,Causes,#9e3215,#022f78,2,0.1792514773118979
-'Thunderstorm tornado',en,Hazard,#a89216,#022f78,3,0.1784917590218303
-'Thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.1776294961404379
-'Thunderstorm power outages',en,Impact,#4287f5,#022f78,2,0.1776290911404379
-'Thunderstorm low pressure',en,Causes,#9e3215,#022f78,1,0.16485518116338907
-'Hail hail swath',en,Hazard,#e67e22,#0b3d91,2,0.1630576793801385
-'Thunderstorm flood barriers',en,Mitigation,#33cc33,#022f78,1,0.1548061211096074
-'Thunderstorm building codes',en,Mitigation,#33cc33,#022f78,1,0.1548061211096074
-'Thunderstorm squall line',en,Hazard,#a89216,#022f78,1,0.1368973320256986
-'Hail freezing level',en,Causes,#8e44ad,#0b3d91,1,0.13087893945779
+'thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
+'hail crop damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
+'hail dented vehicles',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
+'thunderstorm early warning',en,Mitigation,#33cc33,#022f78,3,0.203275088364244
+'thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.193981719736116
+'hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.192908207828108
+'hail ensurance',en,Mitigation,#22cc44,#022f78,3,0.592908207828108
+'hailstorm',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
+'large hail',en,Hazard,#e67e22,#0b3d91,3,0.1918324404472218
+'hail supercells',en,Causes,#8e44ad,#0b3d91,1,0.18498313587029
+'hail nets',en,Mitigation,#2ecc71,#0b3d91,3,0.1847775690094581
+'hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,3,0.1843275240094581
+'hail vehicle shelters',en,Mitigation,#2ecc71,#0b3d91,1,0.1840275390094581
+'hail strong updrafts',en,Causes,#8e44ad,#0b3d91,2,0.1805243384536886
+'thunderstorm wind shear',en,Causes,#9e3215,#022f78,2,0.1792515973118979
+'thunderstorm convection',en,Causes,#9e3215,#022f78,2,0.1792514773118979
+'thunderstorm tornado',en,Hazard,#a89216,#022f78,3,0.1784917590218303
+'thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.1776294961404379
+'thunderstorm power outages',en,Impact,#4287f5,#022f78,2,0.1776290911404379
+'thunderstorm low pressure',en,Causes,#9e3215,#022f78,1,0.16485518116338907
+'hail swath',en,Hazard,#e67e22,#0b3d91,2,0.1630576793801385
+'thunderstorm flood barriers',en,Mitigation,#33cc33,#022f78,1,0.1548061211096074
+'thunderstorm building codes',en,Mitigation,#33cc33,#022f78,1,0.1548061211096074
+'thunderstorm squall line',en,Hazard,#a89216,#022f78,1,0.1368973320256986
+'hail freezing level',en,Causes,#8e44ad,#0b3d91,1,0.13087893945779
