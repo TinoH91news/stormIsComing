@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thunderstorm convection',en,Causes,#9e3215,#022f78,3,0.2108840556610564
 'Thunderstorm wind damage',en,Impact,#4287f5,#022f78,3,0.2089751189887505
 'Hail dented vehicles',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
 'Hail crop damage',en,Impact,#2980b9,#0b3d91,3,0.2057739915624801
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hail vehicle shelters',en,Mitigation,#2ecc71,#0b3d91,1,0.1840275390094581
 'Hail strong updrafts',en,Causes,#8e44ad,#0b3d91,2,0.1805243384536886
 'Thunderstorm wind shear',en,Causes,#9e3215,#022f78,2,0.1792515973118979
+'Thunderstorm convection',en,Causes,#9e3215,#022f78,2,0.17925147731189794
 'Thunderstorm tornado',en,Hazard,#a89216,#022f78,3,0.1784917590218303
 'Thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.1776294961404379
 'Thunderstorm power outages',en,Impact,#4287f5,#022f78,2,0.1776290911404379
