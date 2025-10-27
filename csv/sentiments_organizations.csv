@@ -1,10 +1,17 @@
 ,phrase,label,sentiment,subjectivity,language,count
-IMD,IMD,ORG,-0.02500000000000001,0.25,en,2
+IMD,IMD,ORG,0.11527777777777777,0.41111111111111115,en,4
+the Insurance Institute for Business and Home Safety,the Insurance Institute for Business and Home Safety,ORG,0.159375,0.30416666666666664,en,2
+the India Meteorological Department,the India Meteorological Department,ORG,-0.06111111111111112,0.20555555555555557,en,2
+The National Weather Service (NWS,The National Weather Service (NWS,ORG,-0.13333333333333333,0.25,en,2
 KTLA,KTLA,ORG,-0.1875,0.0,en,1
 MetService,MetService,ORG,0.06666666666666665,0.0,en,1
 Truthout,Truthout,ORG,0.05,0.0,en,1
 New Jersey Democratic congress,New Jersey Democratic congress,ORG,0.13636363636363635,0.0,en,1
 Rapid,Rapid,ORG,0.13333333333333336,0.0,en,1
 J&K,J&K,ORG,-0.2,0.0,en,1
-the India Meteorological Department,the India Meteorological Department,ORG,-0.2,0.0,en,1
+newsweek.com,newsweek.com,ORG,0.0,0.0,en,1
 Pacific Palisades,Pacific Palisades,ORG,0.0,0.0,en,1
+WA,WA,ORG,0.13333333333333333,0.0,en,1
+The National Weather Service,The National Weather Service,ORG,0.0,0.0,en,1
+the National Weather Service (NWS,the National Weather Service (NWS,ORG,0.0,0.0,en,1
+Union Parish Sheriff,Union Parish Sheriff,ORG,-0.2,0.0,en,1

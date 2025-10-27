@@ -1,23 +1,59 @@
 ,phrase,label,sentiment,subjectivity,language,count
+2025,2025,DATE,,,en,3
+this weekend,this weekend,DATE,,,en,3
 Nine,Nine,CARDINAL,,,en,2
-overnight,overnight,TIME,,,en,2
+the weekend,the weekend,DATE,,,en,2
+Friday,Friday,DATE,,,en,2
+October 13,October 13,DATE,,,en,2
+60 mph,60 mph,QUANTITY,,,en,2
+five days,five days,DATE,,,en,2
+October 11,October 11,DATE,,,en,2
+first,first,ORDINAL,,,en,2
+one,one,CARDINAL,,,en,2
 "September 26, 2025","September 26, 2025",DATE,,,en,2
-this weekend,this weekend,DATE,,,en,2
-Nearly 20 Years,Nearly 20 Years,DATE,,,en,1
-millions of dollars,millions of dollars,MONEY,,,en,1
-Deepavali,Deepavali,EVENT,,,en,1
-over 100mm,over 100mm,QUANTITY,,,en,1
-October 21,October 21,DATE,,,en,1
-Deepavali day,Deepavali day,DATE,,,en,1
-100mm,100mm,QUANTITY,,,en,1
-Saturday,Saturday,DATE,,,en,1
-Heavy Rainfall,Heavy Rainfall,WORK_OF_ART,,,en,1
-Tuesday afternoon,Tuesday afternoon,TIME,,,en,1
-2025,2025,DATE,,,en,1
+overnight,overnight,TIME,,,en,2
 September,September,DATE,,,en,1
+a few weeks,a few weeks,DATE,,,en,1
+a month,a month,DATE,,,en,1
+a year ago,a year ago,DATE,,,en,1
+Saturday,Saturday,DATE,,,en,1
+yesterday,yesterday,DATE,,,en,1
+afternoon,afternoon,TIME,,,en,1
+a 38-degree day,a 38-degree day,DATE,,,en,1
+100mm,100mm,QUANTITY,,,en,1
+Deepavali day,Deepavali day,DATE,,,en,1
+October 21,October 21,DATE,,,en,1
+over 100mm,over 100mm,QUANTITY,,,en,1
+Deepavali,Deepavali,EVENT,,,en,1
+"Shutterstock
+
+","Shutterstock
+
+",PRODUCT,,,en,1
+millions of dollars,millions of dollars,MONEY,,,en,1
+each year,each year,DATE,,,en,1
+"October 24, 2025","October 24, 2025",DATE,,,en,1
+"October 24, 2025, Saturday","October 24, 2025, Saturday",DATE,,,en,1
+Victorian,Victorian,NORP,,,en,1
+A year,A year,DATE,,,en,1
+One year,One year,DATE,,,en,1
+Apache Junction,Apache Junction,FAC,0.375,0.875,en,1
+Heavy Rainfall,Heavy Rainfall,WORK_OF_ART,,,en,1
 Tuesday,Tuesday,DATE,,,en,1
 late this evening,late this evening,TIME,,,en,1
+October,October,DATE,,,en,1
+Thousands,Thousands,CARDINAL,,,en,1
+Monday afternoon,Monday afternoon,TIME,,,en,1
+a weekend,a weekend,DATE,,,en,1
 this morning,this morning,TIME,,,en,1
 the week,the week,DATE,,,en,1
-yesterday,yesterday,DATE,,,en,1
-each year,each year,DATE,,,en,1
+more than 2 inches,more than 2 inches,QUANTITY,,,en,1
+two-inch,two-inch,QUANTITY,,,en,1
+6:04 PM to 6:30 PM,6:04 PM to 6:30 PM,TIME,,,en,1
+2025-10,2025-10,DATE,,,en,1
+Nearly 20 Years,Nearly 20 Years,DATE,,,en,1
+Monday night,Monday night,TIME,,,en,1
+Tuesday afternoon,Tuesday afternoon,TIME,,,en,1
+Monday,Monday,DATE,,,en,1
+night,night,TIME,,,en,1
+Apparent Lightning Strike,Apparent Lightning Strike,FAC,,,en,1
