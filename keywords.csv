@@ -7,9 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.1776294961404379
 'thunderstorm wind damage',en,Impact,#4287f5,#022f78,2,0.1776291961404379
 'thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.1773762989948757
-'large hail',en,Hazard,#e67e22,#0b3d91,3,0.17710092847104764
+'large hail',en,Hazard,#e67e22,#0b3d91,3,0.1771009284710476
 'hail crop damage',en,Impact,#2980b9,#0b3d91,2,0.174908012828108
-'hail dented vehicles',en,Impact,#2980b9,#0b3d91,2,0.1749078928281081
 'thunderstorm power outages',en,Impact,#4287f5,#022f78,2,0.1732349674693722
 'thunderstorm early warning',en,Mitigation,#33cc33,#022f78,2,0.1727840951096073
 'thunderstorm wind shear',en,Causes,#9e3215,#022f78,2,0.1703806893817798
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,2,0.1566784104080393
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#022f78,1,0.1548061211096074
 'thunderstorm building codes',en,Mitigation,#33cc33,#022f78,1,0.1548061211096074
+'hail dented vehicles',en,Impact,#2980b9,#0b3d91,1,0.14867170890389186
 'hail swath',en,Hazard,#e67e22,#0b3d91,2,0.1394991324731177
 'thunderstorm squall line',en,Hazard,#a89216,#022f78,1,0.1368973320256986
 'hail supercells',en,Causes,#8e44ad,#0b3d91,1,0.1339278434162845
