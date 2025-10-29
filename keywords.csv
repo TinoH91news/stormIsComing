@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail insurance',en,Mitigation,#22cc44,#022f78,3,0.2729396113036542
-'hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.192908207828108
 'hail strong updrafts',en,Causes,#8e44ad,#0b3d91,2,0.1805243384536886
 'thunderstorm tornado',en,Hazard,#a89216,#022f78,3,0.1784917590218303
 'thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.1776294961404379
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail crop damage',en,Impact,#2980b9,#0b3d91,2,0.1745719309038918
 'thunderstorm power outages',en,Impact,#4287f5,#022f78,2,0.1732349674693722
 'thunderstorm wind shear',en,Causes,#9e3215,#022f78,2,0.1703806893817798
+'hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.1668222766538918
 'thunderstorm low pressure',en,Causes,#9e3215,#022f78,1,0.164855181163389
 'hailstorm',en,Hazard,#e67e22,#0b3d91,2,0.1630582043801385
 'hail nets',en,Mitigation,#2ecc71,#0b3d91,1,0.1570609786580394
