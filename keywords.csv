@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail insurance',en,Mitigation,#22cc44,#022f78,3,0.2729396113036542
 'hail strong updrafts',en,Causes,#8e44ad,#0b3d91,2,0.1805243384536886
 'thunderstorm tornado',en,Hazard,#a89216,#022f78,3,0.1784917590218303
-'thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.1776294961404379
 'thunderstorm wind damage',en,Impact,#4287f5,#022f78,2,0.1776291961404379
 'thunderstorm lightning',en,Hazard,#a89216,#022f78,3,0.1773762989948757
 'large hail',en,Hazard,#e67e22,#0b3d91,3,0.1771009284710476
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail roof damage',en,Impact,#2980b9,#0b3d91,3,0.1668222766538918
 'thunderstorm low pressure',en,Causes,#9e3215,#022f78,1,0.164855181163389
 'hailstorm',en,Hazard,#e67e22,#0b3d91,2,0.1630582043801385
+'thunderstorm flooding',en,Impact,#4287f5,#022f78,2,0.16048570171937224
 'hail nets',en,Mitigation,#2ecc71,#0b3d91,1,0.1570609786580394
 'hail vehicle shelters',en,Mitigation,#2ecc71,#0b3d91,1,0.1568734531580393
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#0b3d91,2,0.1566784104080393
