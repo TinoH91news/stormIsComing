@@ -39,11 +39,8 @@
   
 ### RapidAPI: News-API-14  
 :white_check_mark: News-API-14 respone fine  
-:no_entry: **Not** subscribed to News-API-14  
-Subscribe to News-API-14 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/news-api14  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: News-API-14 status fine  
+:white_check_mark: News-API-14 results found  
 
 ---
   
