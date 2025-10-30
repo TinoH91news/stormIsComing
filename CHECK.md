@@ -20,7 +20,7 @@
 1. Please recheck the username (i.e.: TinoH91news) at https://www.geonames.org/login  
 2. Modify the organization secret at https://github.com/organizations/TinoH91news/settings/secrets/actions/GEONAMES_KEY  
    * Choose 'enter a new value.'  
-   * Make sure to enter your username ('Welcome <username>.') - without the trailing dot!  
+   * Make sure to enter your username ('Welcome **username**.') - but without the trailing dot!  
    * Save  
 
 ---
