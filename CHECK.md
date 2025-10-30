@@ -63,28 +63,22 @@
 ---
   
 ### RapidAPI: Deep-Translate-1  
-:no_entry: Deep-Translate-1 respone **failed**  
-Maybe retry later...?  
+:white_check_mark: Deep-Translate-1 respone fine  
+:white_check_mark: Deep-Translate-1 status fine  
+:white_check_mark: Deep-Translate-1 results found  
 
 ---
   
 ### RapidAPI: Microsoft-Translator-3  
-:white_check_mark: Microsoft-Translator-3 respone fine  
-:no_entry: **Not** subscribed to Microsoft-Translator-3  
-Subscribe to Microsoft-Translator-3 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/apiship-apiship-default/api/microsoft-translator-text-api3  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:no_entry: Microsoft-Translator-3 respone **failed**  
+Maybe retry later...?  
 
 ---
   
 ### RapidAPI: Text-Translator-2  
 :white_check_mark: Text-Translator-2 respone fine  
-:no_entry: **Not** subscribed to Text-Translator-2  
-Subscribe to Text-Translator-2 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/dickyagustin/api/text-translator2  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Text-Translator-2 status fine  
+:white_check_mark: Text-Translator-2 results found  
 
 ---
   
