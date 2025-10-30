@@ -16,12 +16,7 @@
 ### GeonamesAPI  
 :white_check_mark: Geonames key exists  
 :white_check_mark: Geonames respone fine  
-:no_entry: **Not** registered at Geonames (or invalid)  
-1. Please recheck the username (i.e.: TinoH91news) at https://www.geonames.org/login  
-2. Modify the organization secret at https://github.com/organizations/TinoH91news/settings/secrets/actions/GEONAMES_KEY  
-   * Choose 'enter a new value.'  
-   * Make sure to enter your username ('Welcome **username**.') - but without the trailing dot!  
-   * Save  
+:no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount   
 
 ---
   
