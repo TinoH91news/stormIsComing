@@ -12,9 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail dented vehicles',en,Impact,#2980b9,#843c39,1,0.1486717089038918
 'thunderstorm power outages',en,Impact,#4287f5,#7b4173,1,0.1472499323489663
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1468667358431662
-'hail roof damage',en,Impact,#2980b9,#e6550d,3,0.144949265155808
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1448237509745128
-'thunderstorm flooding',en,Impact,#4287f5,#9467bd,2,0.13746347646146637
+'thunderstorm flooding',en,Impact,#4287f5,#9467bd,2,0.1374634764614663
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1371619835510136
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1368973320256986
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1339278434162845
@@ -23,4 +22,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.1315852029431662
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.13087893945779
 'hail crop damage',en,Impact,#2980b9,#ff7f0e,1,0.1268934143280617
+'hail roof damage',en,Impact,#2980b9,#e6550d,3,0.1263572053824368
 'hail swath',en,Hazard,#e67e22,#ff6f61,2,0.11947436760215
