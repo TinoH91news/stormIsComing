@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,3,0.2018807861668901
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.164855181163389
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1645790982912995
-'thunderstorm flooding',en,Impact,#4287f5,#9467bd,2,0.1604857017193722
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.1568734531580393
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.1548061211096074
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.1534457026856353
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1468667358431662
 'hail roof damage',en,Impact,#2980b9,#e6550d,3,0.144949265155808
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1448237509745128
+'thunderstorm flooding',en,Impact,#4287f5,#9467bd,2,0.13746347646146637
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1371619835510136
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1368973320256986
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1339278434162845
@@ -22,5 +22,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1331766638468333
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.1315852029431662
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.13087893945779
-'hail crop damage',en,Impact,#2980b9,#ff7f0e,1,0.12689341432806178
+'hail crop damage',en,Impact,#2980b9,#ff7f0e,1,0.1268934143280617
 'hail swath',en,Hazard,#e67e22,#ff6f61,2,0.11947436760215
