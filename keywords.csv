@@ -21,6 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.13087893945779
 'hail crop damage',en,Impact,#2980b9,#ff7f0e,1,0.1268934143280617
 'hail roof damage',en,Impact,#2980b9,#e6550d,3,0.1263572053824368
-'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.12445035332833589
+'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1244503533283358
 'hail swath',en,Hazard,#e67e22,#ff6f61,2,0.11947436760215
-'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1133501792698083
+'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.09649766737933706
