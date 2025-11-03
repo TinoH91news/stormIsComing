@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1448446935476045
 'thunderstorm flooding',en,Impact,#4287f5,#9467bd,2,0.1374634764614663
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1371619835510136
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1368973320256986
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1339278434162845
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.1338018618593335
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.1336424651843334
@@ -23,4 +22,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail roof damage',en,Impact,#2980b9,#e6550d,3,0.1263572053824368
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1244503533283358
 'hail swath',en,Hazard,#e67e22,#ff6f61,2,0.11947436760215
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.11651274722184381
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.096497667379337
