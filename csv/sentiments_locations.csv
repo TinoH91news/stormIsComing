@@ -1,55 +1,68 @@
 ,phrase,label,sentiment,subjectivity,language,count
-California,California,GPE,0.009375000000000001,0.19687500000000002,en,4
+Arkansas,Arkansas,GPE,-0.041496598639455796,0.32414965986394556,en,7
+Texas,Texas,GPE,-0.06666666666666667,0.3875,en,6
+Plains,Plains,LOC,1.734723475976807e-18,0.35416666666666663,en,4
+Italy,Italy,GPE,0.23333333333333334,0.23333333333333334,en,4
+Houston,Houston,GPE,0.06499999999999999,0.485,en,4
 Arizona,Arizona,GPE,0.13333333333333333,0.6666666666666666,en,4
-Phoenix,Phoenix,GPE,0.0,0.0,en,3
-Oklahoma,Oklahoma,GPE,0.02777777777777778,0.3055555555555556,en,3
-Southern California,Southern California,LOC,-0.04305555555555557,0.3055555555555555,en,3
+California,California,GPE,0.009375000000000001,0.19687500000000002,en,4
 Tamil Nadu,Tamil Nadu,GPE,-0.027777777777777787,0.5666666666666665,en,3
-Houston,Houston,GPE,0.027777777777777766,0.5166666666666667,en,3
-Texas,Texas,GPE,0.0,0.30833333333333335,en,3
-Andhra,Andhra,LOC,-0.06111111111111112,0.4555555555555556,en,2
-NSW,NSW,LOC,0.075,0.7083333333333333,en,2
-Sydney,Sydney,GPE,0.075,0.7083333333333333,en,2
-Plains,Plains,LOC,0.04166666666666667,0.20833333333333334,en,2
+Queensland,Queensland,GPE,0.0,0.5,en,3
+Mississippi Valley,Mississippi Valley,LOC,0.04365079365079364,0.4761904761904761,en,3
+Phoenix,Phoenix,GPE,0.0,0.0,en,3
+Southern California,Southern California,LOC,-0.04305555555555557,0.3055555555555555,en,3
+Oklahoma,Oklahoma,GPE,0.02777777777777778,0.3055555555555556,en,3
+Australia,Australia,GPE,0.25,0.25,en,2
 the Mississippi Valley,the Mississippi Valley,LOC,0.1393939393939394,0.2674242424242424,en,2
-Jammu,Jammu,GPE,-0.07083333333333333,0.3013888888888889,en,2
-Arkansas,Arkansas,GPE,0.04166666666666667,0.20833333333333334,en,2
-SLO County,SLO County,GPE,0.15,0.5,en,2
-Kimberley,Kimberley,GPE,0.05,0.2,en,2
-Los Angeles,Los Angeles,GPE,-0.0625,0.3875,en,2
-Srinagar,Srinagar,GPE,-0.02500000000000001,0.5,en,2
-Brewster County,Brewster County,GPE,0.0,0.2125,en,2
+Sydney,Sydney,GPE,0.075,0.7083333333333333,en,2
+NSW,NSW,LOC,0.075,0.7083333333333333,en,2
 Valley,Valley,LOC,0.07916666666666666,0.3958333333333333,en,2
-Western Australia's,Western Australia's,LOC,0.025,0.45,en,1
+Kimberley,Kimberley,GPE,0.05,0.2,en,2
+Andhra,Andhra,LOC,-0.06111111111111112,0.4555555555555556,en,2
+SLO County,SLO County,GPE,0.15,0.5,en,2
+Istanbul,Istanbul,GPE,0.09999999999999999,0.6666666666666666,en,2
+Türkiye,Türkiye,GPE,0.09999999999999999,0.6666666666666666,en,2
+Los Angeles,Los Angeles,GPE,-0.0625,0.3875,en,2
+Brewster County,Brewster County,GPE,0.0,0.2125,en,2
+Jammu,Jammu,GPE,-0.07083333333333333,0.3013888888888889,en,2
+Srinagar,Srinagar,GPE,-0.02500000000000001,0.5,en,2
+Bernice,Bernice,GPE,0.1,0.4,en,1
+San Luis Obispo County,San Luis Obispo County,GPE,0.1875,0.45833333333333337,en,1
+Ozarks,Ozarks,GPE,0.21428571428571427,0.42857142857142855,en,1
+Glendale,Glendale,GPE,0.05949074074074073,0.48981481481481476,en,1
+Casterton,Casterton,GPE,0.125,0.33125,en,1
+Louisiana,Louisiana,GPE,0.1,0.4,en,1
+the Great Lakes region,the Great Lakes region,LOC,0.2787878787878788,0.5348484848484848,en,1
 Puducherry,Puducherry,GPE,-0.15000000000000002,0.45,en,1
 the Southeast Bay,the Southeast Bay,LOC,-4.625929269271485e-18,0.6166666666666666,en,1
-Bengal,Bengal,GPE,-4.625929269271485e-18,0.6166666666666666,en,1
-the Great Lakes region,the Great Lakes region,LOC,0.2787878787878788,0.5348484848484848,en,1
-Southern Plains,Southern Plains,LOC,0.0,0.5,en,1
-Casterton,Casterton,GPE,0.125,0.33125,en,1
-San Luis Obispo County,San Luis Obispo County,GPE,0.1875,0.45833333333333337,en,1
-Bernice,Bernice,GPE,0.1,0.4,en,1
-Kununurra,Kununurra,GPE,0.0,0.0,en,1
-Scottsdale,Scottsdale,GPE,0.0,0.0,en,1
-thun,thun,GPE,0.0,0.0,en,1
-Apache Junction,Apache Junction,LOC,0.0,0.0,en,1
+Fayetteville,Fayetteville,GPE,-0.30476190476190473,0.6785714285714285,en,1
 Arizona Valley,Arizona Valley,LOC,-0.2,0.5,en,1
-Glendale,Glendale,GPE,0.05949074074074073,0.48981481481481476,en,1
-Peoria,Peoria,GPE,0.05949074074074073,0.48981481481481476,en,1
-the Arizona Valley,the Arizona Valley,LOC,0.05949074074074073,0.48981481481481476,en,1
-New Zealand,New Zealand,GPE,-0.03181818181818183,0.4772727272727273,en,1
+Southern Plains,Southern Plains,LOC,0.0,0.5,en,1
+Western Australia's,Western Australia's,LOC,0.025,0.45,en,1
+Bengal,Bengal,GPE,-4.625929269271485e-18,0.6166666666666666,en,1
+Kununurra,Kununurra,GPE,0.0,0.0,en,1
 the Tasman Sea,the Tasman Sea,LOC,0.21428571428571427,0.42857142857142855,en,1
+Peoria,Peoria,GPE,0.05949074074074073,0.48981481481481476,en,1
 Otago,Otago,GPE,0.06666666666666665,0.6666666666666666,en,1
 Fiordland,Fiordland,GPE,0.06666666666666665,0.6666666666666666,en,1
 Southland,Southland,GPE,0.06666666666666665,0.6666666666666666,en,1
 New Jersey,New Jersey,GPE,-0.2878787878787879,0.4515151515151515,en,1
+New Zealand,New Zealand,GPE,-0.03181818181818183,0.4772727272727273,en,1
 Rajouri,Rajouri,GPE,-0.075,0.325,en,1
 North Bengal,North Bengal,LOC,-0.06666666666666667,0.27777777777777773,en,1
 Srinagar city,Srinagar city,GPE,-0.06666666666666667,0.27777777777777773,en,1
 Kashmir,Kashmir,LOC,-0.06666666666666667,0.27777777777777773,en,1
+Western Türkiye,Western Türkiye,LOC,0.03125,0.25,en,1
+ISTANBUL,ISTANBUL,GPE,0.09999999999999999,0.6666666666666666,en,1
+Mula,Mula,GPE,0.09999999999999999,0.6666666666666666,en,1
 Andhra Pradesh,Andhra Pradesh,GPE,0.4333333333333333,0.7333333333333333,en,1
 Rayalaseema,Rayalaseema,GPE,-0.15000000000000002,0.45,en,1
+Wakayama Prefecture,Wakayama Prefecture,GPE,0.06628787878787878,0.40151515151515155,en,1
+Coachella Valley,Coachella Valley,LOC,-0.1,0.4,en,1
+the Arizona Valley,the Arizona Valley,LOC,0.05949074074074073,0.48981481481481476,en,1
 Mesa,Mesa,GPE,0.0,0.0,en,1
+Scottsdale,Scottsdale,GPE,0.0,0.0,en,1
 Fountain Hills,Fountain Hills,GPE,0.0,0.0,en,1
 NWS,NWS,GPE,0.0,0.0,en,1
-Louisiana,Louisiana,GPE,0.1,0.4,en,1
+Apache Junction,Apache Junction,LOC,0.0,0.0,en,1
+thun,thun,GPE,0.0,0.0,en,1
