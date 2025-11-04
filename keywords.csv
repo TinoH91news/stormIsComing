@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,3,0.1723497332418565
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.164855181163389
-'thunderstorm wind damage',en,Impact,#4287f5,#8c6d31,1,0.1509851467193722
 'hail dented vehicles',en,Impact,#2980b9,#843c39,1,0.1486717089038918
 'thunderstorm power outages',en,Impact,#4287f5,#7b4173,1,0.1472499323489663
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1468667358431662
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.1450610323932723
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1448446935476045
+'thunderstorm wind damage',en,Impact,#4287f5,#8c6d31,2,0.1384559315296482
 'thunderstorm flooding',en,Impact,#4287f5,#9467bd,2,0.1374634764614663
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1371619835510136
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1339278434162845
