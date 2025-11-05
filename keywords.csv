@@ -14,13 +14,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.1315852029431662
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.13087893945779
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.1298092478578462
-'thunderstorm power outages',en,Impact,#4287f5,#7b4173,1,0.12711265249662135
+'thunderstorm power outages',en,Impact,#4287f5,#7b4173,1,0.1271126524966213
 'hail crop damage',en,Impact,#2980b9,#ff7f0e,1,0.1268934143280617
 'hail dented vehicles',en,Impact,#2980b9,#843c39,1,0.126370952568308
 'hail roof damage',en,Impact,#2980b9,#e6550d,3,0.1263572053824368
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1244503533283358
-'hail swath',en,Hazard,#e67e22,#ff6f61,2,0.11947436760215
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1165127472218438
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.1138961254066834
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.1114195756903715
+'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.1015533174618275
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.096497667379337
