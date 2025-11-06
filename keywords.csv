@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'hail insurance',en,Mitigation,#22cc44,#1f77b4,3,0.1723497332418565
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.164855181163389
+'hail insurance',en,Mitigation,#22cc44,#1f77b4,3,0.15039823325557805
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.1450610323932723
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1448446935476045
 'thunderstorm wind damage',en,Impact,#4287f5,#8c6d31,2,0.1384559315296482
