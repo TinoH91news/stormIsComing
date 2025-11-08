@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'large hail',en,Hazard,#e67e22,#d62728,3,0.1448446935476045
-'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.14432732398888065
+'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.1443273239888806
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.1384559315296482
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1374634764614663
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1339278434162845
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.1315852029431662
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.13087893945779
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.1298092478578462
+'large hail',en,Hazard,#e67e22,#d62728,3,0.12807052451546383
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1271126524966213
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.126370952568308
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1244503533283358
