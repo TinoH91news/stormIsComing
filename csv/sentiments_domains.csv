@@ -1,11 +1,12 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
-economictimes.indiatimes.com,0.014701865594722733,0.0619375517450445,0.5116548134405278,0.09298971945505446,7.0
-www.abc.net.au,0.09020833333333333,0.06857806784161309,0.546875,0.15528405125470568,4.0
+economictimes.indiatimes.com,0.019354517010767007,0.058833667655004473,0.4743806540681541,0.13611279625649594,8.0
+www.abc.net.au,0.08873809523809524,0.05948127051391987,0.5746428571428571,0.1481219831155597,5.0
 dailycaller.com,0.00833333333333333,0.008417937871268422,0.41547619047619044,0.12626906806902635,2.0
 biztoc.com,0.15000000000000002,0.07071067811865477,0.30000000000000004,0.1414213562373095,2.0
 7news.com.au,0.0,1.0,0.0,1.0,1.0
 www.foxweather.com,0.0,1.0,0.0,1.0,1.0
 www.westernjournal.com,0.0,1.0,0.0,1.0,1.0
+www.thehindubusinessline.com,0.0,1.0,0.0,1.0,1.0
 www.sanluisobispo.com,0.0,1.0,0.0,1.0,1.0
 www.nzherald.co.nz,0.0,1.0,0.0,1.0,1.0
 www.kark.com,0.0,1.0,0.0,1.0,1.0
@@ -19,6 +20,7 @@ www.bigcountryhomepage.com,0.0,1.0,0.0,1.0,1.0
 weather.com,0.0,1.0,0.0,1.0,1.0
 twistedsifter.com,0.0,1.0,0.0,1.0,1.0
 truthout.org,0.0,1.0,0.0,1.0,1.0
+timesofindia.indiatimes.com,0.0,1.0,0.0,1.0,1.0
 ktla.com,0.0,1.0,0.0,1.0,1.0
 journals.plos.org,0.0,1.0,0.0,1.0,1.0
 brobible.com,0.0,1.0,0.0,1.0,1.0
