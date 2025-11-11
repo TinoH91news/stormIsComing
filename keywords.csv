@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1374634764614663
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.1315852029431662
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.1315852029431662
-'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.1298092478578462
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1271126524966213
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.126370952568308
-'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.12515434639626435
+'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.12548787567916928
+'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1244503533283358
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.1233023125342814
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.1226786453905485
