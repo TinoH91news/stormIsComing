@@ -2,14 +2,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.1384559315296482
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1374634764614663
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.1315852029431662
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1271126524966213
-'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.12699743750169126
+'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.1269974375016912
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.126370952568308
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.1254878756791692
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1244503533283358
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.1233023125342814
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.1226786453905485
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.12086026533641381
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1165127472218438
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1142887119038418
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1134278277204459
