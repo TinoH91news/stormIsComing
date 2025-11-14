@@ -24,3 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.096497667379337
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0948566543368157
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0872204248425533
+'lightning rod',de,Adaptation,#0000ff,#0000ff,2,0.5
+'thunderstorm',de,Hazard,#ff0000,#ff0000,2,0.7
+'lightning and thunder',de,Hazard,#ff0000,#ff0000,2,0.6
+'thunderstorm cell',de,Causes,#00ffff,#00ffff,2,0.5
+'anvil clouds',de,Causes,#00ffff,#00ffff,2,0.5
+'thunderstorm warning',de,Mitigation,#00ff00,#00ff00,2,0.5
+'lightning fire',de,Impacts,#ffff00,#ffff00,2,0.5
