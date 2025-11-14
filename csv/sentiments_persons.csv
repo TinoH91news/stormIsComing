@@ -1,11 +1,46 @@
-,phrase,label,sentiment,subjectivity,language,count
-Shi M,Shi M,PERSON,0.0,0.0,en,1
-Tao H,Tao H,PERSON,0.0,0.0,en,1
-Li Q,Li Q,PERSON,0.0,0.0,en,1
-Wang J,Wang J,PERSON,0.0,0.0,en,1
-Liu Y,Liu Y,PERSON,0.0,0.0,en,1
-Wakayama ume,Wakayama ume,PERSON,0.13636363636363635,0.45454545454545453,en,1
-Kishu ume,Kishu ume,PERSON,0.06628787878787878,0.40151515151515155,en,1
-Kim Jeffrey,Kim Jeffrey,PERSON,0.125,0.33125,en,1
-Nelson Chenault-Imagn,Nelson Chenault-Imagn,PERSON,-0.4,0.4,en,1
-Colton Honeycutt,Colton Honeycutt,PERSON,-0.2,0.4,en,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Donald Trump,Donald Trump,PERSON,-0.045,0.4427777777777778,en,5,,,,,,
+Olde Style Weatherwood,Olde Style Weatherwood,PERSON,0.20227272727272727,0.4409090909090909,en,4,,,,,,
+Terrence Tysall,Terrence Tysall,PERSON,0.16249999999999998,0.225,en,4,,,,,,
+Edmund Fitzgerald,Edmund Fitzgerald,PERSON,0.0,0.0,en,4,,,,,,
+Letitia James,Letitia James,PERSON,0.032196969696969696,0.10454545454545455,en,3,,,,,,
+Boyd Varty,Boyd Varty,PERSON,0.20555555555555557,0.4388888888888889,en,2,,,,,,
+Thoothukudi waterlogged,Thoothukudi waterlogged,PERSON,-0.17500000000000002,0.4,en,2,,,,,,
+Jackery Offloads,Jackery Offloads,PERSON,0.7375,0.8333333333333333,en,2,,,,,,
+Wang et al,Wang et al,PERSON,0.07222222222222222,0.3305555555555556,en,2,,,,,,
+Stephen Thandi,Stephen Thandi,PERSON,0.01893939393939395,0.5284090909090908,en,2,,,,,,
+Ric Mixter,Ric Mixter,PERSON,-0.2,0.05,en,2,,,,,,
+Geshuang Chen,Geshuang Chen,PERSON,0.0,0.0,en,2,,,,,,
+Paul Johnson,Paul Johnson,PERSON,0.22,0.2845833333333333,en,2,,,,,,
+Karol Nawrocki,Karol Nawrocki,PERSON,0.21428571428571427,0.42857142857142855,en,2,,,,,,
+Jamie Rogers,Jamie Rogers,PERSON,0.0625,0.125,en,2,,,,,,
+Jayden Daniels,Jayden Daniels,PERSON,0.0,0.0,en,2,,,,,,
+Franz Kafka,Franz Kafka,PERSON,0.5,0.5,en,1,,,,,,
+Li Q,Li Q,PERSON,0.0,0.0,en,1,,,,,,
+Alessandro Cantarelli,Alessandro Cantarelli,PERSON,0.0,0.0,en,1,,,,,,
+Alex Wides,Alex Wides,PERSON,0.0,0.0,en,1,,,,,,
+Denny Dahl,Denny Dahl,PERSON,0.1,0.4,en,1,,,,,,
+Wang J,Wang J,PERSON,0.0,0.0,en,1,,,,,,
+Isaiah Joe,Isaiah Joe,PERSON,-0.03333333333333333,0.45555555555555555,en,1,,,,,,
+Doug Bostrom,Doug Bostrom,PERSON,0.0,0.25,en,1,,,,,,
+Liu Y,Liu Y,PERSON,0.0,0.0,en,1,,,,,,
+Kallianos - Near,Kallianos - Near,PERSON,-0.11666666666666665,0.5611111111111111,en,1,,,,,,
+Wakayama ume,Wakayama ume,PERSON,0.13636363636363635,0.45454545454545453,en,1,,,,,,
+Manendra Kopparthi,Manendra Kopparthi,PERSON,-0.1,0.4,en,1,,,,,,
+Jordan Baxter,Jordan Baxter,PERSON,0.0,0.0,en,1,,,,,,
+Kishu ume,Kishu ume,PERSON,0.06628787878787878,0.40151515151515155,en,1,,,,,,
+Kim Jeffrey,Kim Jeffrey,PERSON,0.125,0.33125,en,1,,,,,,
+Scott Smith,Scott Smith,PERSON,0.26666666666666666,0.4166666666666667,en,1,,,,,,
+Shuchang Dong,Shuchang Dong,PERSON,0.0,0.0,en,1,,,,,,
+JAIMIE DING,JAIMIE DING,PERSON,0.3,0.7,en,1,,,,,,
+Tab Shingles,Tab Shingles,PERSON,0.0,0.0,en,1,,,,,,
+Gary Logan,Gary Logan,PERSON,0.0,0.0,en,1,,,,,,
+Colton Honeycutt,Colton Honeycutt,PERSON,-0.2,0.4,en,1,,,,,,
+Boyd Varty(@boyd_varty,Boyd Varty(@boyd_varty,PERSON,-0.033333333333333326,0.3333333333333333,en,1,,,,,,
+Tao H,Tao H,PERSON,0.0,0.0,en,1,,,,,,
+HALLIE GOLDEN,HALLIE GOLDEN,PERSON,0.3,0.7,en,1,,,,,,
+Bret Saalwaechter,Bret Saalwaechter,PERSON,-0.1,0.4875,en,1,,,,,,
+Karen Bass,Karen Bass,PERSON,0.08333333333333333,0.43333333333333335,en,1,,,,,,
+Bhubaneswar Directo,Bhubaneswar Directo,PERSON,0.0,0.0,en,1,,,,,,
+Nelson Chenault-Imagn,Nelson Chenault-Imagn,PERSON,-0.4,0.4,en,1,,,,,,
+Shi M,Shi M,PERSON,0.0,0.0,en,1,,,,,,

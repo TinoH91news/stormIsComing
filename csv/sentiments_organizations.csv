@@ -1,32 +1,103 @@
-,phrase,label,sentiment,subjectivity,language,count
-IMD,IMD,ORG,0.039112103174603174,0.312921626984127,en,8
-Delta Air Lines,Delta Air Lines,ORG,0.23333333333333334,0.16666666666666669,en,4
-The India Meteorological Department,The India Meteorological Department,ORG,0.026190476190476195,0.0988095238095238,en,3
-KTAB/KRBC,KTAB/KRBC,ORG,0.08333333333333331,0.16666666666666669,en,2
-the Insurance Institute for Business and Home Safety,the Insurance Institute for Business and Home Safety,ORG,0.159375,0.30416666666666664,en,2
-The Bureau of Meteorology,The Bureau of Meteorology,ORG,0.0,0.0,en,2
-The National Weather Service,The National Weather Service,ORG,0.0,0.0,en,2
-Delta,Delta,ORG,0.0,0.0,en,2
-The National Weather Service (NWS,The National Weather Service (NWS,ORG,-0.13333333333333333,0.25,en,2
-the India Meteorological Department,the India Meteorological Department,ORG,-0.06111111111111112,0.20555555555555557,en,2
-the Big Country,the Big Country,ORG,0.08333333333333331,0.16666666666666669,en,2
-the Turkish State Meteorological Service,the Turkish State Meteorological Service,ORG,0.09999999999999999,0.3333333333333333,en,2
-KTLA,KTLA,ORG,-0.1875,0.0,en,1
-WA,WA,ORG,0.13333333333333333,0.0,en,1
-the National Weather Service (NWS,the National Weather Service (NWS,ORG,0.0,0.0,en,1
-Pacific Palisades,Pacific Palisades,ORG,0.0,0.0,en,1
-Union Parish Sheriff,Union Parish Sheriff,ORG,-0.2,0.0,en,1
-Kashmir Assembly,Kashmir Assembly,ORG,0.0,0.0,en,1
-Texas A&M,Texas A&M,ORG,-0.4,0.0,en,1
-WAKAYAMA PREF,WAKAYAMA PREF,ORG,0.0,0.0,en,1
-newsweek.com,newsweek.com,ORG,0.0,0.0,en,1
-The Coachella Valley,The Coachella Valley,ORG,-0.05,0.0,en,1
-MetService,MetService,ORG,0.06666666666666665,0.0,en,1
-MINABE,MINABE,ORG,0.0,0.0,en,1
-Muğla,Muğla,ORG,0.09999999999999999,0.0,en,1
-J&K,J&K,ORG,-0.2,0.0,en,1
-Boeing,Boeing,ORG,0.2,0.0,en,1
-Rapid,Rapid,ORG,0.13333333333333336,0.0,en,1
-New Jersey Democratic congress,New Jersey Democratic congress,ORG,0.13636363636363635,0.0,en,1
-Truthout,Truthout,ORG,0.05,0.0,en,1
-Jammu & Kashmir,Jammu & Kashmir,ORG,0.0,0.0,en,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+IMD,IMD,ORG,0.03801353874883286,0.43941409897292255,en,17,,,,,,
+IKO,IKO,ORG,0.22424242424242422,0.3606060606060606,en,6,,,,,,
+Honda,Honda,ORG,-0.00683982683982684,0.15354978354978355,en,5,,,,,,
+AP,AP,ORG,0.11791666666666666,0.4670833333333333,en,4,,,,,,
+Delta Air Lines,Delta Air Lines,ORG,0.23333333333333334,0.16666666666666669,en,4,,,,,,
+The Bureau of Meteorology,The Bureau of Meteorology,ORG,-0.26571428571428574,0.4285714285714286,en,4,,,,,,
+WA,WA,ORG,0.13333333333333333,0.26666666666666666,en,3,,,,,,
+The National Weather Service,The National Weather Service,ORG,-0.03888888888888888,0.18703703703703703,en,3,,,,,,
+The National Weather Service (NWS,The National Weather Service (NWS,ORG,-0.10277777777777779,0.27499999999999997,en,3,,,,,,
+The India Meteorological Department,The India Meteorological Department,ORG,0.026190476190476195,0.0988095238095238,en,3,,,,,,
+Odisha,Odisha,ORG,0.05000000000000001,0.3,en,3,,,,,,
+Mercedes-Benz E350,Mercedes-Benz E350,ORG,-0.016666666666666666,0.06666666666666667,en,3,,,,,,
+Capri Blue Metallic,Capri Blue Metallic,ORG,-0.025,0.05,en,2,,,,,,
+Carlow,Carlow,ORG,0.0,0.0,en,2,,,,,,
+Cypress Green Pearl,Cypress Green Pearl,ORG,-0.13333333333333333,0.15,en,2,,,,,,
+fe,fe,ORG,0.32499999999999996,0.225,en,2,,,,,,
+No Reserve,No Reserve,ORG,0.0,0.0,en,2,,,,,,
+Banana Shire,Banana Shire,ORG,0.2,0.5,en,2,,,,,,
+Navy,Navy,ORG,0.22,0.1506547619047619,en,2,,,,,,
+KTAB/KRBC,KTAB/KRBC,ORG,0.08333333333333331,0.16666666666666669,en,2,,,,,,
+the Big Country,the Big Country,ORG,0.08333333333333331,0.16666666666666669,en,2,,,,,,
+Cork,Cork,ORG,0.0,0.0,en,2,,,,,,
+Almond Beige MB-Tex,Almond Beige MB-Tex,ORG,-0.025,0.05,en,2,,,,,,
+Track Your Life,Track Your Life,ORG,0.18333333333333335,0.16666666666666666,en,2,,,,,,
+Trump,Trump,ORG,-0.5,0.25,en,2,,,,,,
+the Turkish State Meteorological Service,the Turkish State Meteorological Service,ORG,0.09999999999999999,0.3333333333333333,en,2,,,,,,
+the Insurance Institute for Business and Home Safety,the Insurance Institute for Business and Home Safety,ORG,0.159375,0.30416666666666664,en,2,,,,,,
+Truthout,Truthout,ORG,0.05,0.125,en,2,,,,,,
+IKO Expands Performance Shingle Collection,IKO Expands Performance Shingle Collection,ORG,0.0,0.0,en,2,,,,,,
+Delta,Delta,ORG,0.0,0.0,en,2,,,,,,
+the India Meteorological Department,the India Meteorological Department,ORG,-0.06111111111111112,0.20555555555555557,en,2,,,,,,
+LSU,LSU,ORG,0.0,0.0,en,2,,,,,,
+Yahoo Local,Yahoo Local,ORG,0.26666666666666666,0.16666666666666666,en,2,,,,,,
+Londolozi Game Reserve,Londolozi Game Reserve,ORG,-0.21666666666666667,0.2,en,2,,,,,,
+Iguacu,Iguacu,ORG,0.06818181818181818,0.2333333333333333,en,2,,,,,,
+the Southern Downs,the Southern Downs,ORG,0.25,0.0,en,1,,,,,,
+The Bureau of M,The Bureau of M,ORG,0.0,0.0,en,1,,,,,,
+Standard Chartered Weather Photographer,Standard Chartered Weather Photographer,ORG,0.32,0.0,en,1,,,,,,
+the Royal Meteorological Society,the Royal Meteorological Society,ORG,0.32,0.0,en,1,,,,,,
+Kashmir Assembly,Kashmir Assembly,ORG,0.0,0.0,en,1,,,,,,
+The Royal Meteorological Society's,The Royal Meteorological Society's,ORG,0.05,0.0,en,1,,,,,,
+Bureau of Meteorology s,Bureau of Meteorology s,ORG,0.0,0.0,en,1,,,,,,
+KTLA,KTLA,ORG,-0.1875,0.0,en,1,,,,,,
+ProtoThema,ProtoThema,ORG,0.08333333333333333,0.0,en,1,,,,,,
+weatherturns,weatherturns,ORG,0.025000000000000005,0.0,en,1,,,,,,
+the National Weather Service,the National Weather Service,ORG,0.0,0.0,en,1,,,,,,
+National Guard,National Guard,ORG,-0.5,0.0,en,1,,,,,,
+thunde,thunde,ORG,0.0,0.0,en,1,,,,,,
+Epson International Pano,Epson International Pano,ORG,0.4125,0.0,en,1,,,,,,
+Popular Science,Popular Science,ORG,0.4625,0.0,en,1,,,,,,
+Cyber,Cyber,ORG,-0.16666666666666666,0.0,en,1,,,,,,
+SEO,SEO,ORG,0.0,0.0,en,1,,,,,,
+the Portland Trail Blazers,the Portland Trail Blazers,ORG,0.0,0.0,en,1,,,,,,
+the Oklahoma City Thunder's,the Oklahoma City Thunder's,ORG,0.0,0.0,en,1,,,,,,
+Trail Blazers,Trail Blazers,ORG,0.0,0.0,en,1,,,,,,
+the National Acad,the National Acad,ORG,0.0,0.0,en,1,,,,,,
+the National Academy of Sciences,the National Academy of Sciences,ORG,0.14444444444444443,0.0,en,1,,,,,,
+Are Architectural & 3,Are Architectural & 3,ORG,0.0,0.0,en,1,,,,,,
+Stat,Stat,ORG,0.15584415584415584,0.0,en,1,,,,,,
+State,State,ORG,0.16233766233766234,0.0,en,1,,,,,,
+Jammu & Kashmir,Jammu & Kashmir,ORG,0.0,0.0,en,1,,,,,,
+EMY,EMY,ORG,-0.11666666666666665,0.0,en,1,,,,,,
+Science New Research,Science New Research,ORG,-0.18181818181818182,0.0,en,1,,,,,,
+Serengeti National Park,Serengeti National Park,ORG,-0.1,0.0,en,1,,,,,,
+deci,deci,ORG,0.03125,0.0,en,1,,,,,,
+KXAS-TV,KXAS-TV,ORG,0.0,0.0,en,1,,,,,,
+warningsLos Angeles Times California Forecast,warningsLos Angeles Times California Forecast,ORG,0.0932900432900433,0.0,en,1,,,,,,
+Los Angeles Times,Los Angeles Times,ORG,0.0,0.0,en,1,,,,,,
+Pacific Palisades,Pacific Palisades,ORG,0.0,0.0,en,1,,,,,,
+"Associated Press
+","Associated Press
+",ORG,0.3,0.0,en,1,,,,,,
+newsweek.com,newsweek.com,ORG,0.0,0.0,en,1,,,,,,
+Great Southern,Great Southern,ORG,0.26666666666666666,0.0,en,1,,,,,,
+Daniels,Daniels,ORG,0.0,0.0,en,1,,,,,,
+The Coachella Valley,The Coachella Valley,ORG,-0.05,0.0,en,1,,,,,,
+WAKAYAMA PREF,WAKAYAMA PREF,ORG,0.0,0.0,en,1,,,,,,
+MINABE,MINABE,ORG,0.0,0.0,en,1,,,,,,
+Muğla,Muğla,ORG,0.09999999999999999,0.0,en,1,,,,,,
+J&K,J&K,ORG,-0.2,0.0,en,1,,,,,,
+Boeing,Boeing,ORG,0.2,0.0,en,1,,,,,,
+Rapid,Rapid,ORG,0.13333333333333336,0.0,en,1,,,,,,
+New Jersey Democratic congress,New Jersey Democratic congress,ORG,0.13636363636363635,0.0,en,1,,,,,,
+Honda Del Sol VTEC,Honda Del Sol VTEC,ORG,-0.08376623376623377,0.0,en,1,,,,,,
+HerGateway,HerGateway,ORG,0.0,0.0,en,1,,,,,,
+the Indian Meteorological Department,the Indian Meteorological Department,ORG,-0.06666666666666667,0.0,en,1,,,,,,
+LionLocation,LionLocation,ORG,-0.1,0.0,en,1,,,,,,
+Union Parish Sheriff,Union Parish Sheriff,ORG,-0.2,0.0,en,1,,,,,,
+The Bureau of Meteor…,The Bureau of Meteor…,ORG,0.0,0.0,en,1,,,,,,
+"The Wild Man Within, Nature","The Wild Man Within, Nature",ORG,0.011111111111111118,0.0,en,1,,,,,,
+the National Weather Service (NWS,the National Weather Service (NWS,ORG,0.0,0.0,en,1,,,,,,
+Associated Press,Associated Press,ORG,-0.11875,0.0,en,1,,,,,,
+MetService,MetService,ORG,0.06666666666666665,0.0,en,1,,,,,,
+United States)Animal,United States)Animal,ORG,-0.1,0.0,en,1,,,,,,
+Texas A&M,Texas A&M,ORG,-0.4,0.0,en,1,,,,,,
+Wagon at No Reserve,Wagon at No Reserve,ORG,0.0,0.0,en,1,,,,,,
+Wash,Wash,ORG,1.0,0.0,en,1,,,,,,
+Tesla,Tesla,ORG,0.0,0.0,en,1,,,,,,
+Tota,Tota,ORG,0.0,0.0,en,1,,,,,,
+The Indian Meteorological Department,The Indian Meteorological Department,ORG,0.13333333333333333,0.0,en,1,,,,,,
+India Meteorological Department,India Meteorological Department,ORG,0.0,0.0,en,1,,,,,,
+Darling Downs,Darling Downs,ORG,0.125,0.0,en,1,,,,,,

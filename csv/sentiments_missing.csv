@@ -1,86 +1,253 @@
-,phrase,label,sentiment,subjectivity,language,count
-Friday,Friday,DATE,,,en,6
-2023,2023,DATE,,,en,6
-Thursday,Thursday,DATE,,,en,5
-the weekend,the weekend,DATE,,,en,5
-Saturday,Saturday,DATE,,,en,4
-this weekend,this weekend,DATE,,,en,3
-night,night,TIME,,,en,3
-Italian,Italian,NORP,,,en,3
-2025,2025,DATE,,,en,3
-more than one hundred thousand,more than one hundred thousand,CARDINAL,,,en,2
-60 mph,60 mph,QUANTITY,,,en,2
-October 11,October 11,DATE,,,en,2
-this evening,this evening,TIME,,,en,2
-October 13,October 13,DATE,,,en,2
-first,first,ORDINAL,,,en,2
-two hours,two hours,TIME,,,en,2
-five days,five days,DATE,,,en,2
-Nine,Nine,CARDINAL,,,en,2
-two-thirds,two-thirds,CARDINAL,,,en,2
-the next 72 hours,the next 72 hours,TIME,,,en,2
-"September 26, 2025","September 26, 2025",DATE,,,en,2
-the next three hours,the next three hours,TIME,,,en,2
-overnight,overnight,TIME,,,en,2
-one,one,CARDINAL,,,en,2
-Oct. 7,Oct. 7,DATE,,,en,2
-October 21,October 21,DATE,,,en,1
-Deepavali day,Deepavali day,DATE,,,en,1
-100mm,100mm,QUANTITY,,,en,1
-early Saturday,early Saturday,TIME,,,en,1
-a 38-degree day,a 38-degree day,DATE,,,en,1
-over 100mm,over 100mm,QUANTITY,,,en,1
-"70,000","70,000",CARDINAL,,,en,1
-up to 8,up to 8,CARDINAL,,,en,1
-"75,000","75,000",CARDINAL,,,en,1
-afternoon,afternoon,TIME,,,en,1
-the coming days,the coming days,DATE,,,en,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+2025,2025,DATE,,,en,18,,,,,,
+October,October,DATE,,,en,18,,,,,,
+the weekend,the weekend,DATE,,,en,16,,,,,,
+Friday,Friday,DATE,,,en,13,,,,,,
+Saturday,Saturday,DATE,,,en,12,,,,,,
+first,first,ORDINAL,,,en,10,,,,,,
+Tuesday,Tuesday,DATE,,,en,9,,,,,,
+today,today,DATE,,,en,7,,,,,,
+more than 400,more than 400,CARDINAL,,,en,6,,,,,,
+2023,2023,DATE,,,en,6,,,,,,
+this month,this month,DATE,,,en,5,,,,,,
+four,four,CARDINAL,,,en,5,,,,,,
+this weekend,this weekend,DATE,,,en,5,,,,,,
+Americans,Americans,NORP,,,en,5,,,,,,
+the coming days,the coming days,DATE,,,en,5,,,,,,
+Thursday,Thursday,DATE,,,en,5,,,,,,
+one,one,CARDINAL,,,en,5,,,,,,
+at least six,at least six,CARDINAL,,,en,5,,,,,,
+next week,next week,DATE,,,en,4,,,,,,
+this week,this week,DATE,,,en,4,,,,,,
+Nov. 12,Nov. 12,DATE,,,en,4,,,,,,
+six,six,CARDINAL,,,en,4,,,,,,
+evening,evening,TIME,,,en,4,,,,,,
+the second season,the second season,DATE,,,en,4,,,,,,
+Del Sol VTEC,Del Sol VTEC,PRODUCT,,,en,3,,,,,,
+five,five,CARDINAL,,,en,3,,,,,,
+2,2,CARDINAL,,,en,3,,,,,,
+1997,1997,DATE,,,en,3,,,,,,
+tens of thousands,tens of thousands,CARDINAL,,,en,3,,,,,,
+72,72,CARDINAL,,,en,3,,,,,,
+48,48,CARDINAL,,,en,3,,,,,,
+two,two,CARDINAL,,,en,3,,,,,,
+October 21,October 21,DATE,,,en,3,,,,,,
+55%,55%,PERCENT,,,en,3,,,,,,
+the next 24 hours,the next 24 hours,TIME,,,en,3,,,,,,
+night,night,TIME,,,en,3,,,,,,
+2011,2011,DATE,,,en,3,,,,,,
+1995,1995,DATE,,,en,3,,,,,,
+a day,a day,DATE,,,en,3,,,,,,
+Italian,Italian,NORP,,,en,3,,,,,,
+yesterday,yesterday,DATE,,,en,3,,,,,,
+this morning,this morning,TIME,,,en,3,,,,,,
+Nine,Nine,CARDINAL,,,en,2,,,,,,
+the next 36 hours,the next 36 hours,TIME,,,en,2,,,,,,
+75,75,CARDINAL,,,en,2,,,,,,
+700k,700k,MONEY,,,en,2,,,,,,
+Chubbies,Chubbies,PRODUCT,,,en,2,,,,,,
+7 days,7 days,DATE,,,en,2,,,,,,
+700 miles,700 miles,QUANTITY,,,en,2,,,,,,
+8,8,CARDINAL,,,en,2,,,,,,
+Wednesday,Wednesday,DATE,,,en,2,,,,,,
+121,121,CARDINAL,,,en,2,,,,,,
+Oct. 7,Oct. 7,DATE,,,en,2,,,,,,
+five days,five days,DATE,,,en,2,,,,,,
+three,three,CARDINAL,,,en,2,,,,,,
+two hours,two hours,TIME,,,en,2,,,,,,
+The Ideal Backup,The Ideal Backup,PRODUCT,,,en,2,,,,,,
+16,16,CARDINAL,,,en,2,,,,,,
+Polish,Polish,NORP,,,en,2,,,,,,
+"October 16, 2025","October 16, 2025",DATE,,,en,2,,,,,,
+tomorrow,tomorrow,DATE,,,en,2,,,,,,
+seven,seven,CARDINAL,,,en,2,,,,,,
+1.16,1.16,CARDINAL,,,en,2,,,,,,
+morning,morning,TIME,,,en,2,,,,,,
+the next three hours,the next three hours,TIME,,,en,2,,,,,,
+10th,10th,ORDINAL,,,en,2,,,,,,
+this year,this year,DATE,,,en,2,,,,,,
+last week,last week,DATE,,,en,2,,,,,,
+the next 72 hours,the next 72 hours,TIME,,,en,2,,,,,,
+37 degrees,37 degrees,QUANTITY,,,en,2,,,,,,
+Tens of thousands,Tens of thousands,CARDINAL,,,en,2,,,,,,
+two-thirds,two-thirds,CARDINAL,,,en,2,,,,,,
+more than one hundred thousand,more than one hundred thousand,CARDINAL,,,en,2,,,,,,
+Nikon Comedy Wildlife Photography Awards,Nikon Comedy Wildlife Photography Awards,EVENT,,,en,2,,,,,,
+one September day in 1995,one September day in 1995,DATE,,,en,2,,,,,,
+the OzAsia Festival,the OzAsia Festival,EVENT,,,en,2,,,,,,
+fourth,fourth,ORDINAL,,,en,2,,,,,,
+more than 500,more than 500,CARDINAL,,,en,2,,,,,,
+Dozens,Dozens,CARDINAL,,,en,2,,,,,,
+this evening,this evening,TIME,,,en,2,,,,,,
+late Wednesday,late Wednesday,TIME,,,en,2,,,,,,
+up to 8,up to 8,CARDINAL,,,en,2,,,,,,
+2024,2024,DATE,,,en,2,,,,,,
+October 11,October 11,DATE,,,en,2,,,,,,
+million,million,CARDINAL,,,en,2,,,,,,
+October 13,October 13,DATE,,,en,2,,,,,,
+Victorian,Victorian,NORP,,,en,2,,,,,,
+at least one,at least one,CARDINAL,,,en,2,,,,,,
+2002,2002,DATE,,,en,2,,,,,,
+"September 26, 2025","September 26, 2025",DATE,,,en,2,,,,,,
+a year ago,a year ago,DATE,,,en,2,,,,,,
+millions,millions,CARDINAL,,,en,2,,,,,,
+60 mph,60 mph,QUANTITY,,,en,2,,,,,,
+One,One,CARDINAL,,,en,2,,,,,,
+Interstate 75 North,Interstate 75 North,FAC,,,en,2,,,,,,
+13,13,CARDINAL,,,en,2,,,,,,
+the past fortnight,the past fortnight,DATE,,,en,2,,,,,,
+Epson International Pano,Epson International Pano,EVENT,,,en,2,,,,,,
+Millions,Millions,CARDINAL,,,en,2,,,,,,
+Monday,Monday,DATE,,,en,2,,,,,,
+Civic,Civic,PRODUCT,,,en,2,,,,,,
+midweek,midweek,DATE,,,en,2,,,,,,
+overnight,overnight,TIME,,,en,2,,,,,,
+Monday night,Monday night,TIME,,,en,2,,,,,,
+the Launch of Olde Style Weatherwood Color,the Launch of Olde Style Weatherwood Color,WORK_OF_ART,,,en,2,,,,,,
+16th,16th,ORDINAL,,,en,1,,,,,,
+Hundreds,Hundreds,CARDINAL,,,en,1,,,,,,
+their worst seasons in years,their worst seasons in years,DATE,,,en,1,,,,,,
+6,6,CARDINAL,,,en,1,,,,,,
+"at least $300,000","at least $300,000",MONEY,,,en,1,,,,,,
+300k,300k,MONEY,,,en,1,,,,,,
+between 8 and 9 centimetres,between 8 and 9 centimetres,QUANTITY,,,en,1,,,,,,
+over 400,over 400,CARDINAL,,,en,1,,,,,,
+up to 250 km/h,up to 250 km/h,QUANTITY,,,en,1,,,,,,
+two consecutive days,two consecutive days,DATE,,,en,1,,,,,,
+90 percent,90 percent,PERCENT,,,en,1,,,,,,
+Nine centimetre,Nine centimetre,QUANTITY,,,en,1,,,,,,
+Manendra,Manendra,WORK_OF_ART,,,en,1,,,,,,
+Up to 4 inches,Up to 4 inches,QUANTITY,,,en,1,,,,,,
+10 million,10 million,CARDINAL,,,en,1,,,,,,
+Year,Year,DATE,,,en,1,,,,,,
+the day,the day,DATE,,,en,1,,,,,,
+Italys,Italys,NORP,,,en,1,,,,,,
+Six,Six,CARDINAL,,,en,1,,,,,,
+Saturday afternoon,Saturday afternoon,TIME,,,en,1,,,,,,
+up to nine centimetres,up to nine centimetres,QUANTITY,,,en,1,,,,,,
+decades ago,decades ago,DATE,,,en,1,,,,,,
+the holiday season,the holiday season,DATE,,,en,1,,,,,,
+Nov 8),Nov 8),DATE,,,en,1,,,,,,
+2020,2020,DATE,,,en,1,,,,,,
+weekend,weekend,DATE,,,en,1,,,,,,
+decades-ago,decades-ago,DATE,,,en,1,,,,,,
+2026,2026,DATE,,,en,1,,,,,,
+32 degrees,32 degrees,QUANTITY,,,en,1,,,,,,
+last month,last month,DATE,,,en,1,,,,,,
+the almost 50 years,the almost 50 years,DATE,,,en,1,,,,,,
+September,September,DATE,,,en,1,,,,,,
+Just a couple of inches,Just a couple of inches,TIME,,,en,1,,,,,,
+years,years,DATE,,,en,1,,,,,,
+second,second,ORDINAL,,,en,1,,,,,,
+Jackery Explorer 1000,Jackery Explorer 1000,PRODUCT,,,en,1,,,,,,
+the the end of 2025,the the end of 2025,DATE,,,en,1,,,,,,
+late this evening,late this evening,TIME,,,en,1,,,,,,
+Black Friday,Black Friday,EVENT,,,en,1,,,,,,
+500 meters,500 meters,QUANTITY,,,en,1,,,,,,
+the final seconds,the final seconds,TIME,,,en,1,,,,,,
+English,English,LANGUAGE,,,en,1,,,,,,
+the afternoon hours,the afternoon hours,TIME,,,en,1,,,,,,
+Three days,Three days,DATE,,,en,1,,,,,,
++4131,+4131,NORP,,,en,1,,,,,,
+Nov 8).The,Nov 8).The,DATE,,,en,1,,,,,,
+the week,the week,DATE,,,en,1,,,,,,
+Mile Marker,Mile Marker,FAC,,,en,1,,,,,,
+zero,zero,CARDINAL,,,en,1,,,,,,
+The last month of spring,The last month of spring,DATE,,,en,1,,,,,,
+6 November 2025,6 November 2025,DATE,,,en,1,,,,,,
+Interstate 285,Interstate 285,FAC,,,en,1,,,,,,
+balmy nights,balmy nights,DATE,,,en,1,,,,,,
++4848,+4848,NORP,,,en,1,,,,,,
+1998,1998,DATE,,,en,1,,,,,,
+Week,Week,DATE,,,en,1,,,,,,
+#45 2025,#45 2025,MONEY,,,en,1,,,,,,
+Today,Today,DATE,,,en,1,,,,,,
+two-inch,two-inch,QUANTITY,,,en,1,,,,,,
+Lugu Lake,Lugu Lake,FAC,,,en,1,,,,,,
+early spring,early spring,DATE,,,en,1,,,,,,
+5,5,CARDINAL,,,en,1,,,,,,
+the mid 80s,the mid 80s,DATE,,,en,1,,,,,,
+hundreds,hundreds,CARDINAL,,,en,1,,,,,,
+wet weekend,wet weekend,DATE,,,en,1,,,,,,
+October 19,October 19,DATE,,,en,1,,,,,,
+the Western Ghats,the Western Ghats,FAC,,,en,1,,,,,,
+Daytime,Daytime,TIME,,,en,1,,,,,,
+afternoon,afternoon,TIME,,,en,1,,,,,,
+No Income Tax to Parents,No Income Tax to Parents,LAW,,,en,1,,,,,,
+the Year 2025,the Year 2025,DATE,,,en,1,,,,,,
+months,months,DATE,,,en,1,,,,,,
++33650 chars,+33650 chars,WORK_OF_ART,,,en,1,,,,,,
+one week,one week,DATE,,,en,1,,,,,,
+One week,One week,DATE,,,en,1,,,,,,
+"75,000","75,000",CARDINAL,,,en,1,,,,,,
+"70,000","70,000",CARDINAL,,,en,1,,,,,,
+More than 50 million,More than 50 million,CARDINAL,,,en,1,,,,,,
+more than 50 million,more than 50 million,CARDINAL,,,en,1,,,,,,
+earlier this year,earlier this year,DATE,,,en,1,,,,,,
+Thousands,Thousands,CARDINAL,,,en,1,,,,,,
+Tamil Nadu,Tamil Nadu,NORP,-0.010714285714285716,0.02142857142857143,en,1,,,,,,
+a month,a month,DATE,,,en,1,,,,,,
+2025-10,2025-10,DATE,,,en,1,,,,,,
+About 115,About 115,CARDINAL,,,en,1,,,,,,
+January,January,DATE,,,en,1,,,,,,
++5007,+5007,NORP,,,en,1,,,,,,
+Nearly 20 Years,Nearly 20 Years,DATE,,,en,1,,,,,,
+more than 2 inches,more than 2 inches,QUANTITY,,,en,1,,,,,,
+Early-Season,Early-Season,DATE,,,en,1,,,,,,
+Californians,Californians,NORP,,,en,1,,,,,,
+Apache Junction,Apache Junction,FAC,0.375,0.875,en,1,,,,,,
+a weekend,a weekend,DATE,,,en,1,,,,,,
+Monday afternoon,Monday afternoon,TIME,,,en,1,,,,,,
+1,1,CARDINAL,,,en,1,,,,,,
+51,51,CARDINAL,,,en,1,,,,,,
+10/15/2025 8:52:31 AM PDT,10/15/2025 8:52:31 AM PDT,TIME,,,en,1,,,,,,
+One year,One year,DATE,,,en,1,,,,,,
+A year,A year,DATE,,,en,1,,,,,,
+a few weeks,a few weeks,DATE,,,en,1,,,,,,
+March,March,DATE,,,en,1,,,,,,
+third,third,ORDINAL,,,en,1,,,,,,
+a 38-degree day,a 38-degree day,DATE,,,en,1,,,,,,
+Serengeti,Serengeti,PRODUCT,,,en,1,,,,,,
+"October 24, 2025","October 24, 2025",DATE,,,en,1,,,,,,
+"October 24, 2025, Saturday","October 24, 2025, Saturday",DATE,,,en,1,,,,,,
+Hidden Wisdom,Hidden Wisdom,WORK_OF_ART,,,en,1,,,,,,
+832,832,MONEY,,,en,1,,,,,,
+6:04 PM to 6:30 PM,6:04 PM to 6:30 PM,TIME,,,en,1,,,,,,
+October 27,October 27,DATE,,,en,1,,,,,,
+Andhra Pradesh,Andhra Pradesh,NORP,0.016666666666666666,0.5333333333333333,en,1,,,,,,
+Apparent Lightning Strike,Apparent Lightning Strike,FAC,,,en,1,,,,,,
+early Saturday,early Saturday,TIME,,,en,1,,,,,,
+Heavy Rainfall,Heavy Rainfall,WORK_OF_ART,,,en,1,,,,,,
+"July 24, 2023","July 24, 2023",DATE,,,en,1,,,,,,
++5140,+5140,NORP,,,en,1,,,,,,
+dozens,dozens,CARDINAL,,,en,1,,,,,,
+more than 30,more than 30,CARDINAL,,,en,1,,,,,,
+the next five days,the next five days,DATE,,,en,1,,,,,,
++1703 chars,+1703 chars,WORK_OF_ART,,,en,1,,,,,,
+the Year Competition,the Year Competition,EVENT,,,en,1,,,,,,
+tonight,tonight,TIME,,,en,1,,,,,,
+I Just Can’t Wait To Be King,I Just Can’t Wait To Be King,WORK_OF_ART,,,en,1,,,,,,
+100mm,100mm,QUANTITY,,,en,1,,,,,,
+the Nikon Comedy Wildlife Photography Awards,the Nikon Comedy Wildlife Photography Awards,PRODUCT,,,en,1,,,,,,
+Deepavali day,Deepavali day,DATE,,,en,1,,,,,,
+over 100mm,over 100mm,QUANTITY,,,en,1,,,,,,
+Deepavali,Deepavali,EVENT,,,en,1,,,,,,
+The next 36 hours,The next 36 hours,TIME,,,en,1,,,,,,
+Oct. 20,Oct. 20,DATE,,,en,1,,,,,,
+Family Features,Family Features,WORK_OF_ART,,,en,1,,,,,,
+36 hours,36 hours,TIME,,,en,1,,,,,,
 "Shutterstock
 
 ","Shutterstock
 
-",PRODUCT,,,en,1
-Deepavali,Deepavali,EVENT,,,en,1
-millions of dollars,millions of dollars,MONEY,,,en,1
-each year,each year,DATE,,,en,1
-tonight,tonight,TIME,,,en,1
-their worst seasons in years,their worst seasons in years,DATE,,,en,1
-+1703 chars,+1703 chars,WORK_OF_ART,,,en,1
-"October 24, 2025","October 24, 2025",DATE,,,en,1
-"October 24, 2025, Saturday","October 24, 2025, Saturday",DATE,,,en,1
-the mid 80s,the mid 80s,DATE,,,en,1
-the next five days,the next five days,DATE,,,en,1
-morning,morning,TIME,,,en,1
-Apparent Lightning Strike,Apparent Lightning Strike,FAC,,,en,1
-One year,One year,DATE,,,en,1
-5,5,CARDINAL,,,en,1
-Apache Junction,Apache Junction,FAC,0.375,0.875,en,1
-yesterday,yesterday,DATE,,,en,1
-the week,the week,DATE,,,en,1
-this morning,this morning,TIME,,,en,1
-late this evening,late this evening,TIME,,,en,1
-Tuesday,Tuesday,DATE,,,en,1
-September,September,DATE,,,en,1
-"July 24, 2023","July 24, 2023",DATE,,,en,1
-Heavy Rainfall,Heavy Rainfall,WORK_OF_ART,,,en,1
-+1398 chars,+1398 chars,WORK_OF_ART,,,en,1
-October,October,DATE,,,en,1
-Thousands,Thousands,CARDINAL,,,en,1
-Monday afternoon,Monday afternoon,TIME,,,en,1
-a weekend,a weekend,DATE,,,en,1
-two-inch,two-inch,QUANTITY,,,en,1
-2,2,CARDINAL,,,en,1
-6:04 PM to 6:30 PM,6:04 PM to 6:30 PM,TIME,,,en,1
-2025-10,2025-10,DATE,,,en,1
-Nearly 20 Years,Nearly 20 Years,DATE,,,en,1
-Monday night,Monday night,TIME,,,en,1
-Monday,Monday,DATE,,,en,1
-more than 2 inches,more than 2 inches,QUANTITY,,,en,1
-Millions,Millions,CARDINAL,,,en,1
-Tuesday afternoon,Tuesday afternoon,TIME,,,en,1
-A year,A year,DATE,,,en,1
-Victorian,Victorian,NORP,,,en,1
-a few weeks,a few weeks,DATE,,,en,1
-a month,a month,DATE,,,en,1
-a year ago,a year ago,DATE,,,en,1
-between 8 and 9 centimetres,between 8 and 9 centimetres,QUANTITY,,,en,1
+",PRODUCT,,,en,1,,,,,,
+millions of dollars,millions of dollars,MONEY,,,en,1,,,,,,
+each year,each year,DATE,,,en,1,,,,,,
+7 Days,7 Days,DATE,,,en,1,,,,,,
+10,10,CARDINAL,,,en,1,,,,,,
++1398 chars,+1398 chars,WORK_OF_ART,,,en,1,,,,,,
+South Australian,South Australian,NORP,,,en,1,,,,,,
+Tuesday afternoon,Tuesday afternoon,TIME,,,en,1,,,,,,
+winter,winter,DATE,,,en,1,,,,,,
+Each year,Each year,DATE,,,en,1,,,,,,
+October 26,October 26,DATE,,,en,1,,,,,,
