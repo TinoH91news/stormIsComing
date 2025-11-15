@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning rod',de,Adaptation,#0000ff,#0000ff,2,0.5
 'thunderstorm warning',de,Mitigation,#00ff00,#00ff00,2,0.5
 'anvil clouds',de,Causes,#00ffff,#00ffff,2,0.5
-'thunderstorm cell',de,Causes,#00ffff,#00ffff,2,0.5
 'lightning fire',de,Impacts,#ffff00,#ffff00,2,0.425150015
+'thunderstorm cell',de,Causes,#00ffff,#00ffff,1,0.425
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1299798630968576
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.1233023125342814
